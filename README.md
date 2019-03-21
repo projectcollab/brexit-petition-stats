@@ -47,7 +47,17 @@ node index.js --countries=500 --interval=3000
 
 ## Example Output
 
+### No Args
+```
+node index.js
+```
 ![alt](/examples/Example-1-no-args.png)
+
+### With Countries Arg
+```
+node index.js --countries=500
+```
+![alt](/examples/Example2-countries-arg.png)
 
 ## Built With
 
