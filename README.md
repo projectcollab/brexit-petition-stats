@@ -45,6 +45,10 @@ Example, to have nodejs query every x seconds
 node index.js --countries=500 --interval=3000
 ```
 
+## Example Output
+
+![alt](/examples/Example-1-no-args.png)
+
 ## Built With
 
 * [Chalk](https://momentjs.com/)
